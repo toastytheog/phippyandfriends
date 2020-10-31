@@ -43,7 +43,7 @@ The Phippy and Friends repository is public. Just clone it to your local machine
 
 ```bash
 git clone https://github.com/Azure/phippyandfriends.git
-cd phippy-demo
+cd phippyandfriends
 code .
 ```
 
